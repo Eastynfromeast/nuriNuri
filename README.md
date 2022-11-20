@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+nuri_nuri will be filled with cute, adorable, god-general Nuri's pictures.
+Why am I making it? Because Nuri is cute.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
